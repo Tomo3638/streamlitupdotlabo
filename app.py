@@ -9,6 +9,7 @@ num2 = st.number_input("2つ目の数字を入力してください", value=0)
 
 # 計算
 sum_result = num1 + num2
+
 sub_result = num1 - num2
 mul_result = num1 * num2
 if num2 != 0:
